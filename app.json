@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "apppy-fun-times",
+    "slug": "apppy-fun-times",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "apppy-fun-times"
+}
